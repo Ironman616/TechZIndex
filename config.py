@@ -5,4 +5,4 @@ STRING_SESSION = "AQGFxnsAoOMJt4OIPmxzXe5f8m7OYf5GMlgxFclxELVDSdwDtIO1QkGSI4KBXq
 OWNER_ID = "5529497172"
 ADMINS = [5529497172]
 BASE_URL = "https://movieloverzzstreaming-37788a19d54d.herokuapp.com/"
-HOME_PAGE_REDIRECT = "https://movieloverzzstreaming-37788a19d54d.herokuapp.com/"
+HOME_PAGE_REDIRECT = "https://movieloverzzstreaming-37788a19d54d.herokuapp.com/channel/mlfilezz"
